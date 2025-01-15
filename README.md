@@ -1,2 +1,2 @@
 # python-learn
-pathon 学习以及爬虫
+python 学习以及爬虫
